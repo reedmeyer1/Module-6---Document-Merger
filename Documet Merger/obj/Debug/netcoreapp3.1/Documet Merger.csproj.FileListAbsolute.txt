@@ -1,0 +1,11 @@
+C:\Users\hxeye\Desktop\Coursework\Programming\Documet Merger\obj\Debug\netcoreapp3.1\Documet Merger.csprojAssemblyReference.cache
+C:\Users\hxeye\Desktop\Coursework\Programming\Documet Merger\obj\Debug\netcoreapp3.1\Documet Merger.AssemblyInfoInputs.cache
+C:\Users\hxeye\Desktop\Coursework\Programming\Documet Merger\obj\Debug\netcoreapp3.1\Documet Merger.AssemblyInfo.cs
+C:\Users\hxeye\Desktop\Coursework\Programming\Documet Merger\bin\Debug\netcoreapp3.1\Documet Merger.exe
+C:\Users\hxeye\Desktop\Coursework\Programming\Documet Merger\bin\Debug\netcoreapp3.1\Documet Merger.deps.json
+C:\Users\hxeye\Desktop\Coursework\Programming\Documet Merger\bin\Debug\netcoreapp3.1\Documet Merger.runtimeconfig.json
+C:\Users\hxeye\Desktop\Coursework\Programming\Documet Merger\bin\Debug\netcoreapp3.1\Documet Merger.runtimeconfig.dev.json
+C:\Users\hxeye\Desktop\Coursework\Programming\Documet Merger\bin\Debug\netcoreapp3.1\Documet Merger.dll
+C:\Users\hxeye\Desktop\Coursework\Programming\Documet Merger\bin\Debug\netcoreapp3.1\Documet Merger.pdb
+C:\Users\hxeye\Desktop\Coursework\Programming\Documet Merger\obj\Debug\netcoreapp3.1\Documet Merger.dll
+C:\Users\hxeye\Desktop\Coursework\Programming\Documet Merger\obj\Debug\netcoreapp3.1\Documet Merger.pdb

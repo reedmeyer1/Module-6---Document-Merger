@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hxeye\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hxeye\\.nuget\\packages"
+    ]
+  }
+}
